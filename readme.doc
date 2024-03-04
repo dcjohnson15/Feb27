@@ -1,3 +1,10 @@
+#readme
+
+Task 1
+
+Fast foward merges occur when the target branch hasnt diverged from the sources branches history. Includes all the new 
+features on a different branch and adds them to the orignial branch while retaining all the information from the original branch
+
 Task 2
 
 B. Scenario that creates a merge conflict would be adding two different titles. One being  on the conflict branch and One
@@ -11,5 +18,9 @@ this will be shown by the looks of the git graph
 Git Graph screenshot:
 
 IS 424/Spring24/Feb27/Screenshot 2024-03-04 at 4.09.47 PM.png
+
+
+
+
 
 
