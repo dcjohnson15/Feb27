@@ -1,7 +1,11 @@
 Task 2
 
-B. Scenario that creates a merge conflict would be 
+B. Scenario that creates a merge conflict would be adding two different titles. One being  on the conflict branch and One
+on the develop branch and then merging the branches together. Merged conflict branch on develop and accepted 
+incoming changes from development branch.
 
-C. Scenario that wont create a merge conflict would be 
+
+C. Scenario that wont create a merge conflict would be adding p tags on different lines on the two different branches
+this will be shown by the looks of the git graph
 
 Git Graph screenshot:
